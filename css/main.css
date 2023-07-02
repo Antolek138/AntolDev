@@ -51,7 +51,7 @@ html {
   background-color: #393e46;
   opacity: 0;
   overflow: hidden;
-  transition: opacity 0.8s ease-in, height 0.5s ease-in;
+  transition: opacity 0.1s ease-in, height 0.5s ease-in;
   z-index: 5;
 }
 .nav__menu a {
